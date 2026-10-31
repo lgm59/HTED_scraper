@@ -59,13 +59,6 @@ One row per gene, in the same order as the input list, with four columns (one pe
 
 The table does not include a gene-name column, so keep your input list alongside the results to match rows to genes.
 
-## Limitations
-
-- It depends on FlyBase's current page layout. Some elements are located by position, so a redesign of the site can break it.
-- It runs one gene at a time through a visible browser window, so large lists take time.
-- Results are copied to the clipboard, not saved to a file.
-- It is intended for small, polite request volumes. Please follow FlyBase's terms of use and consider their bulk data downloads for very large queries.
-
 ## Files
 
 - `main.py`: the scraper
