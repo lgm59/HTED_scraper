@@ -4,7 +4,7 @@ A Python command-line tool that collects high-throughput gene expression data fr
 
 Written as a solo project to support a research lab's gene expression analysis.
 
-**Demo video:** [https://www.loom.com/share/31d5d38dd60f4f238de9568e028c74f7](https://drive.google.com/file/d/1R3vptTJy8CDo1YTsUECgQntzTkGDegva/view?usp=sharing)
+**Demo video:** https://drive.google.com/file/d/1R3vptTJy8CDo1YTsUECgQntzTkGDegva/view?usp=sharing
 
 ## What it does
 
